@@ -5,7 +5,7 @@ Twitter Bot that Tweets messages from a text file but also follows, favorites an
 
 1. Add your Twitter API credentials to your **credentials.py**.
 
-2. Modify **yourtextfile.txt** with your own material that you want to tweet.
+2. Modify **yourtextfile.txt** with your own material that you want to tweet. *One line* equals to *one tweet*.
 
 3. Modify **twitterbot_tweeter.py** and **twitterbot_retweeter.py** to fit your own demand. It is now set to Tweet once in a week. 
 
