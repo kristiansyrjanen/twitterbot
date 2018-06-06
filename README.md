@@ -1,5 +1,5 @@
 # Twitterbot
-Twitter Bot that Tweets messages from a text file but also Follows, Favorites and ReTweets stuff.
+Twitter Bot that Tweets messages from a text file but also follows, favorites and retweets stuff.
 
 ## Usage
 
