@@ -1,0 +1,5 @@
+Example file. One line equals to one tweet..
+Remember that the character limit in a tweet is 280.
+This is merely a simple robot.
+It is set to Tweet once in a week.
+You can change the values in each file by yourself. 
