@@ -6,7 +6,7 @@ auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token, access_token_secret)
 api = tweepy.API(auth)
 
-my_file=open('soukanparhaat.txt','r')
+my_file=open('yourtextfile.txt','r')
 file_lines=my_file.readlines()
 my_file.close()
 
