@@ -8,7 +8,7 @@ api = tweepy.API(auth)
 
 for tweet in tweepy.Cursor(api.search, q='#examplehastag').items():
     try:
-        # Add \n for to clear it up
+        # Adds a new line (\n) to clear it up
         print('\nTweet by: @' + tweet.user.screen_name)
 
         # Retweet found tweet
